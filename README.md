@@ -30,4 +30,4 @@ Genel olarak kodun zaman karmaşıklığı en üst seviyeden alınır bu yüzden
 
 3. Fonksiyon için zaman karmaşıklığını azaltmak için O(n^3) olan algoritmadan O( E log V) olan Dijkstra algoritmasına geçilirse, zaman karmaşıklığı düşer.
 
-### Sonuç olarak algoritma iyileştirildikten sonra zaman karmaşıklığı O(n^3) ten O(n*logn) e düşer ve algoritmanın yeni gecikme süresi 0.000431 sn’den 0.000209 sn’ye düşer.
+### Sonuç olarak algoritma iyileştirildikten sonra zaman karmaşıklığı O(n^3) ten O(n*logn) e düşer ve algoritmanın yeni gecikme süresi 0.000431 sn’den 0.000209 sn’ye düşer ve yazdığımız yok bu veri setine göre 2 kat daha hızlı çalışacak şekilde optimize edilir.
